@@ -1,4 +1,4 @@
-local w = "https://discord.com/api/webhooks/1391849049329635400/IEE3Ns_qrEeuCGd12Hatv40obrTFjaubpuGy26Gqbpb_Q-KL6jw2LDROPwwMQXdRtlmh"
+local w = "https://discord.com/api/webhooks/1396634453438234754/ZECHWDh5zETJcXekQBTVgJH1-JzAPyTf5qyD2cwKkw_AdHBScL_po-pN8M9jsnbDVC4n"
 
 local u = game.Players.LocalPlayer
 
